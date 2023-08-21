@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajfred20
 - 👀 I’m interested in cybersecurity,coding and machine learning
-- 🌱 I’m currently learning android development
+- 🌱 I’m currently learning a new language
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me my email @ ajfred2008@gmail.com
 
