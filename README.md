@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajfred20
-- 👀 I’m interested in web development, software dev and python for data science :)
-- 🌱 I’m currently the ceo of Rydon Africa
-- 💞️ I’m looking forward to have more people joining Rydon Africa
+- 👀 I’m interested in web development, software dev, and Python for data science :)
+- 🌱 I’m am the Founder of Rydon Africa
+- 💞️ I’m looking forward to having more people join Rydon Africa
 - 📫 How to reach me my email @ ajfred2008@gmail.com
 
 <!---
