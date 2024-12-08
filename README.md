@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/fredaj2024" target="blank"><img src="https://img.shields.io/twitter/follow/fredaj2024?logo=twitter&style=for-the-badge" alt="fredaj2024" /></a> </p>
 
-- 🔭 I’m currently working on **My startups 😂😂**
+- 🔭 I’m currently working on **[Rydon Africa](https://x.com/rydonhq)**
 
 - 🌱 I’m currently learning **Web3 Development and solidity**
 
