@@ -17,7 +17,7 @@
  <a href="https://komarev.com/ghpvc/?username=ajfred20&label=PROFILE+VIEWS">
     <img src="https://komarev.com/ghpvc/?username=ajfred20&label=PROFILE+VIEWS&style=for-the-badge&color=green" />
   </a>&nbsp;&nbsp;
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; <br /><br />
  <a href="https://wakatime.com/@018df707-2f08-430b-97b4-54cdb8fc72de"><img src="https://wakatime.com/badge/user/018df707-2f08-430b-97b4-54cdb8fc72de.svg" alt="Total time coded since Feb 29 2024" /></a>
   <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=ajfred20&show_icons=true&theme=tokyonight&line_height=25">
